@@ -1,0 +1,5 @@
+# requirements.txt
+Flask
+requests
+flask-cors
+python-dotenv==1.0.0
